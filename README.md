@@ -3,7 +3,6 @@
 [![n8n](https://img.shields.io/badge/n8n-Automation-orange)](https://n8n.io/)
 [![VAPI](https://img.shields.io/badge/VAPI-Voice%20AI-blue)](https://vapi.ai/)
 [![Airtable](https://img.shields.io/badge/Airtable-Database-brightgreen)](https://airtable.com/)
-[![Automated](https://img.shields.io/badge/Fully-Automated-success)](https://example.com)
 
 > **Intelligent voice AI agent that automatically calls leads from Airtable, conducts personalized conversations, and sends appointment booking links via email and WhatsApp. Built with VAPI, n8n, and Calendly integration.**
 
